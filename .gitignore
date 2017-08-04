@@ -1,4 +1,7 @@
+
 *.pyc
 .vscode/
 db.sqlite3
 settings.ini
+desafio-python-env/
+static/
