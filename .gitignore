@@ -1,0 +1,4 @@
+*.pyc
+.vscode/
+python_challenge/db.sqlite3
+python_challenge/settings.ini
